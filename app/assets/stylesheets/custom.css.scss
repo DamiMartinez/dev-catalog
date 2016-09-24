@@ -1,0 +1,41 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome";
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.jumbotron {
+	height: 480px;
+	padding-top: 170px;
+}
+
+.jumbotron h1 {
+	font-size: 36px;
+  line-height: 1.4;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+section h2 {
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+footer {
+  margin-top: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #f8f8f8;
+}
+
+.fa {
+  color: #a9a9a9;
+  font-size: 40px;
+}
