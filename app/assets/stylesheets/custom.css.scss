@@ -31,11 +31,16 @@ section h2 {
 footer {
   margin-top: 100px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   background-color: #f8f8f8;
 }
 
 .fa {
   color: #a9a9a9;
   font-size: 40px;
+  margin-bottom: 10px;
+}
+
+a.thumbnail:hover {
+  border-color: #333333;
 }
